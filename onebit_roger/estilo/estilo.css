@@ -1,0 +1,88 @@
+*{
+    margin:0;
+    padding:0;
+}
+
+body{
+    background-color: rgb(202, 252, 217);
+    color: midnightblue;
+    font-family: Helvetica;
+}
+
+header{
+    background-color: #ffffff;
+    padding: 20px;
+}
+main{
+    margin: 0 auto;
+    max-width: 1200px;
+}
+
+#banner{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#clientes{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#clientes img{
+    width: 115px;
+    padding: 5px;
+    margin: 10;
+}
+
+#contato{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#servicos{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+#horario{
+    background-color: #ffffff;
+    margin: 10px;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+footer{
+    background-color: #ffffff;
+    padding: 10px;
+    text-align: center;
+}
+
+/* Estilo para o menu */
+
+nav{
+    background-color: #f3f4f6;
+    padding: 20px;
+}
+
+nav ul li{
+    display: inline;
+    padding: 20px;
+}
+
+nav ul li a{
+    text-decoration: none;
+    color: #1f2937;
+}
+
+nav ul li a:hover{
+    text-decoration: underline;
+    color: #c82957;
+}
